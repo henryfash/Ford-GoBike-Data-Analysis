@@ -1,7 +1,7 @@
 # Ford GoBike system Exploratory Data Analysis and Explanatory Visualization
 
 ### Dataset
-This data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area. There are 183412 trips and 16 features in the dataset. Most variables are numeric in nature, but the features start_station_name, end_station_name, user_type and member_gender are qualitative nominal variables. There are two users categories, Subscriber and Customer.
+This data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area. There are 183412 trips and 16 features in the dataset. Most variables are numeric in nature, but the features start_station_name, end_station_name, user_type and member_gender are qualitative nominal variables. There are two users categories, Subscriber and Customer. <a href = "https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv">Download dataset</a>
 
 ### Summary of Findings
 
